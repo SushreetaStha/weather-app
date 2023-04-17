@@ -1,4 +1,4 @@
-# newvueapp
+# weather-app
 
 ## Project setup
 ```
